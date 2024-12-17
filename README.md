@@ -25,3 +25,11 @@ Other projects.
 - [{funcgeo}](https://github.com/MHenderson/funcgeo) - functional geometry in R.
 - [squarelimit](https://github.com/MHenderson/squarelimit) - recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with {funcgeo}.
 
+## Journalling
+
+- [llinyn](https://github.com/MHenderson/llinyn) - a few esoteric string operations in R.
+- [mp](https://github.com/MHenderson/mp) - create morning pages.
+- [pages2df](https://github.com/MHenderson/pages2df) - read morning pages into a data frame in R.
+- [pages2docs](https://github.com/MHenderson/pages2docs) - convert morning pages to the format required by mkdocs.
+- [pages2tex](https://github.com/MHenderson/pages2tex) - convert morning pages into LaTeX chapters of a book.
+
