@@ -38,6 +38,11 @@ Other projects.
 
 ## Writing Tools
 
+### LaTeX Templates
+
+- [fiction-template](https://github.com/MHenderson/fiction-template) - a template for PDF documents using XeLaTeX and latexmk.
+- [paper-template](https://github.com/MHenderson/paper-template) - a foundation for mathematical papers in XeLaTeX. 
+
 ### Morning Pages
 
 - [llinyn](https://github.com/MHenderson/llinyn) - a few esoteric string operations in R.
