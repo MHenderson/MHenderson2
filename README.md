@@ -2,7 +2,9 @@
 
 Other projects.
 
-## Data Visualisation
+## Data Science
+
+### Data Visualisation
 
 * [beach-volleyball](https://github.com/MHenderson/beach-volleyball) - Tidy Tuesday week 20, 2020.
 * [childcare-costs](https://github.com/MHenderson/childcare-costs) - Tidy Tuesday for week 19, 2023.
@@ -20,12 +22,23 @@ Other projects.
 * [tt-water-sources](https://github.com/MHenderson/tt-water-sources) - Plots of data from the Water Point Data Exchange for Week 19, 2021 of Tidy Tuesday.
 * [ultra-trail-running](https://github.com/MHenderson/ultra-trail-running) - Tidy Tuesday week 43, 2021.
 
-## Functional Geometry
+## Machine Learning
+
+### Expert Learning
+
+- [experts](https://github.com/MHenderson/experts) - mixture of experts in Python. 
+- [expert-learning](https://github.com/MHenderson/expert-learning) - demos of the experts package.
+
+## Programming
+
+### Functional Geometry
 
 - [{funcgeo}](https://github.com/MHenderson/funcgeo) - functional geometry in R.
 - [squarelimit](https://github.com/MHenderson/squarelimit) - recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with {funcgeo}.
 
-## Journalling
+## Writing Tools
+
+### Morning Pages
 
 - [llinyn](https://github.com/MHenderson/llinyn) - a few esoteric string operations in R.
 - [mp](https://github.com/MHenderson/mp) - create morning pages.
