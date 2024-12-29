@@ -29,6 +29,13 @@ Other projects.
 - [experts](https://github.com/MHenderson/experts) - mixture of experts in Python. 
 - [expert-learning](https://github.com/MHenderson/expert-learning) - demos of the experts package.
 
+## Mathematics
+
+### Combinatorics
+
+- [room](https://github.com/MHenderson/room) - a book about [Room squares](https://en.wikipedia.org/wiki/Room_square).
+- [room-squares-bib](https://github.com/MHenderson/room-squares-bib) - a bibliography of Room squares.
+
 ## Programming
 
 ### Functional Geometry
