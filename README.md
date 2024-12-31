@@ -2,6 +2,11 @@
 
 Other projects.
 
+## Config
+
+- [dotfiles](https://github.com/MHenderson/dotfiles) -  dotfiles for codespaces.
+- [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) -  my personal R universe.
+
 ## Data Science
 
 ### Data Visualisation
