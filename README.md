@@ -4,8 +4,10 @@ Other projects.
 
 ## Config
 
-- [dotfiles](https://github.com/MHenderson/dotfiles) -  dotfiles for codespaces.
-- [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) -  my personal R universe.
+| Repository                                                                           | Description              |
+| ------------------------------------------------------------------------------------ | ------------------------ |
+| [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
+| [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
 ## Data Science
 
