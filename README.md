@@ -56,7 +56,7 @@ Other projects.
 | Repository                                                 | Description                                                                                                    |
 | :--------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
 | [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
-| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with {funcgeo}. |
+| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
 
 ## Writing Tools
 
