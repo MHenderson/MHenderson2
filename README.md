@@ -35,35 +35,45 @@ Other projects.
 
 ### Expert Learning
 
-- [experts](https://github.com/MHenderson/experts) - mixture of experts in Python. 
-- [expert-learning](https://github.com/MHenderson/expert-learning) - demos of the experts package.
+| Repository                                                        | Description                      |
+| :---------------------------------------------------------------: | -------------------------------- |
+| [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
+| [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
 ## Mathematics
 
 ### Combinatorics
 
-- [room](https://github.com/MHenderson/room) - a book about [Room squares](https://en.wikipedia.org/wiki/Room_square).
-- [room-squares-bib](https://github.com/MHenderson/room-squares-bib) - a bibliography of Room squares.
+| Repository                                                             | Description                                                             |
+| :--------------------------------------------------------------------: | ----------------------------------------------------------------------- |
+| [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square). |
+| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                         |
 
 ## Programming
 
 ### Functional Geometry
 
-- [{funcgeo}](https://github.com/MHenderson/funcgeo) - functional geometry in R.
-- [squarelimit](https://github.com/MHenderson/squarelimit) - recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with {funcgeo}.
+| Repository                                                 | Description                                                                                                    |
+| :--------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
+| [{funcgeo}](https://github.com/MHenderson/funcgeo)         | Functional geometry in R.                                                                                      |
+| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with {funcgeo}. |
 
 ## Writing Tools
 
 ### LaTeX Templates
 
-- [fiction-template](https://github.com/MHenderson/fiction-template) - a template for PDF documents using XeLaTeX and latexmk.
-- [paper-template](https://github.com/MHenderson/paper-template) - a foundation for mathematical papers in XeLaTeX. 
+| Repository                                                             | Description                                                             |
+| :--------------------------------------------------------------------: | ----------------------------------------------------------------------- |
+| [fiction-template](https://github.com/MHenderson/fiction-template)     | A template for PDF documents using XeLaTeX and latexmk.                 |
+| [paper-template](https://github.com/MHenderson/paper-template)         | A foundation for mathematical papers in XeLaTeX.                        |
 
 ### Morning Pages
 
-- [llinyn](https://github.com/MHenderson/llinyn) - a few esoteric string operations in R.
-- [mp](https://github.com/MHenderson/mp) - create morning pages.
-- [pages2df](https://github.com/MHenderson/pages2df) - read morning pages into a data frame in R.
-- [pages2docs](https://github.com/MHenderson/pages2docs) - convert morning pages to the format required by mkdocs.
-- [pages2tex](https://github.com/MHenderson/pages2tex) - convert morning pages into LaTeX chapters of a book.
+| Repository                                                | Description                                              |
+| :-------------------------------------------------------: | -------------------------------------------------------- |
+| [llinyn](https://github.com/MHenderson/llinyn)            | A few esoteric string operations in R.                   |
+| [mp](https://github.com/MHenderson/mp)                    | Create morning pages.                                    |
+| [pages2df](https://github.com/MHenderson/pages2df)        | Read morning pages into a data frame in R.               |
+| [pages2docs](https://github.com/MHenderson/pages2docs)    | Convert morning pages to the format required by mkdocs.  |
+| [pages2tex](https://github.com/MHenderson/pages2tex)      | Convert morning pages into LaTeX chapters of a book.     |
 
