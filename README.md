@@ -1,15 +1,15 @@
-# MHenderson2
+# MHenderson2 (36)
 
 Other projects.
 
-## Config
+## Config (2)
 
 | Repository                                                                           | Description              |
 | :----------------------------------------------------------------------------------: | ------------------------ |
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
 | [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
-## Data Science
+## Data Science (15)
 
 ### Data Visualisation
 
@@ -42,7 +42,7 @@ Other projects.
 | [lombardi-drawings](https://github.com/MHenderson/lombardi-drawings)               | Code behind a blog post about the Lombardi Spirograph.       |
 | [processing-graph-streams](https://github.com/MHenderson/processing-graph-streams) | Code behing a blog post about gvpr.                          |
 
-## Machine Learning
+## Machine Learning (2)
 
 ### Expert Learning
 
@@ -51,7 +51,7 @@ Other projects.
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
-## Mathematics
+## Mathematics (2)
 
 ### Combinatorics
 
@@ -60,7 +60,7 @@ Other projects.
 | [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square). |
 | [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                         |
 
-## Programming
+## Programming (2)
 
 ### Functional Geometry
 
@@ -69,7 +69,7 @@ Other projects.
 | [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
 | [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
 
-## Writing Tools
+## Writing Tools (7)
 
 ### LaTeX Templates
 
