@@ -31,6 +31,17 @@ Other projects.
 | [tt-volcanoes](https://github.com/MHenderson/tt-volcanoes)                           | Tidy Tuesday for week 20 of 2020.                                                                     |
 | [tt-water-sources](https://github.com/MHenderson/tt-water-sources)                   | Plots of data from the Water Point Data Exchange for Week 19, 2021 of Tidy Tuesday.                   |
 
+## Graph Theory (6)
+
+| Repository                                                                         | Description                                                  |
+| :--------------------------------------------------------------------------------: | ------------------------------------------------------------ |
+| [euler-paths](https://github.com/MHenderson/euler-paths)                           | Test Euler paths with Maxima.                                |
+| [ccli](https://github.com/MHenderson/ccli)                                         | A command-line interface for Culberson’s colouring programs. |
+| [graphs-collection](https://github.com/MHenderson/graphs-collection)               | A collection of graphs in a variety of formats.              |
+| [graph-drawing](https://github.com/MHenderson/graph-drawing)                       | Drawing graphs with NetworkX.                                |
+| [lombardi-drawings](https://github.com/MHenderson/lombardi-drawings)               | Code behind a blog post about the Lombardi Spirograph.       |
+| [processing-graph-streams](https://github.com/MHenderson/processing-graph-streams) | Code behing a blog post about gvpr.                          |
+
 ## Machine Learning
 
 ### Expert Learning
