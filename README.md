@@ -1,4 +1,4 @@
-# MHenderson2 (36)
+# MHenderson2 (40)
 
 Other projects.
 
@@ -40,14 +40,18 @@ Other projects.
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
-## Mathematics (8)
+## Mathematics (12)
 
 ### Combinatorics
 
-| Repository                                                             | Description                                                             |
-| :--------------------------------------------------------------------: | ----------------------------------------------------------------------- |
-| [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square). |
-| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                         |
+| Repository                                                             | Description                                                                   |
+| :--------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
+| [completing-pls](https://github.com/MHenderson/completing-pls)         | Completing partial latin squares in Python with ryser.                        |
+| [keedwell](https://github.com/MHenderson/keedwell)                     | Completion and embedding of latin squares in R.                               |
+| [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                 | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
+| [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square).       |
+| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                               |
+| [ryser](https://github.com/MHenderson/ryser)                           | Latin squares and related designs.                                            |
 
 ### Graph Theory
 
