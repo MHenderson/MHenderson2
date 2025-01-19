@@ -1,4 +1,4 @@
-# MHenderson2 (40)
+# MHenderson2 (42)
 
 Other projects.
 
@@ -40,7 +40,7 @@ Other projects.
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
-## Mathematics (12)
+## Mathematics (14)
 
 ### Combinatorics
 
