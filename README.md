@@ -1,4 +1,4 @@
-# MHenderson2 (36)
+# MHenderson2 (42)
 
 Other projects.
 
@@ -40,14 +40,20 @@ Other projects.
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
-## Mathematics (8)
+## Mathematics (14)
 
 ### Combinatorics
 
-| Repository                                                             | Description                                                             |
-| :--------------------------------------------------------------------: | ----------------------------------------------------------------------- |
-| [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square). |
-| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                         |
+| Repository                                                             | Description                                                                   |
+| :--------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
+| [completing-pls](https://github.com/MHenderson/completing-pls)         | Completing partial latin squares in Python with ryser.                        |
+| [keedwell](https://github.com/MHenderson/keedwell)                     | Completion and embedding of latin squares in R.                               |
+| [latin-enumeration](https://github.com/MHenderson/latin-enumeration)   | Enumeration of latin squares with R and Minion.                               |
+| [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                 | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
+| [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square).       |
+| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                               |
+| [ryser](https://github.com/MHenderson/ryser)                           | Latin squares and related designs.                                            |
+| [ryser-in-r](https://github.com/MHenderson/ryser-in-r)                 | Extending latin rectangles in R using Ryser's theorem and {keedwell}.         |
 
 ### Graph Theory
 
