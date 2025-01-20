@@ -5,7 +5,7 @@ Other projects.
 ## Config (2)
 
 | Repository                                                                           | Description              |
-| :----------------------------------------------------------------------------------: | ------------------------ |
+| -----------------------------------------------------------------------------------: | ------------------------ |
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
 | [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
@@ -14,7 +14,7 @@ Other projects.
 ### Data Visualisation
 
 | Repository                                                                           | Description                                                                                           |
-| :----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- |
+| -----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- |
 | [cottonviz](https://github.com/MHenderson/cottonviz)                                 | My code for the Mary Eleanor Spear dataviz competition, hosted by the Royal Statistical Society.      |
 | [madison-county](https://github.com/MHenderson/madison-county)                       | Plots of Madison County, Kentucky.                                                                    |
 | [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday)                           | My efforts towards the weekly [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project. |
@@ -36,7 +36,7 @@ Other projects.
 ### Expert Learning
 
 | Repository                                                        | Description                      |
-| :---------------------------------------------------------------: | -------------------------------- |
+| ----------------------------------------------------------------: | -------------------------------- |
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
@@ -66,7 +66,7 @@ Other projects.
 ### Graph Theory
 
 | Repository                                                                         | Description                                                  |
-| :--------------------------------------------------------------------------------: | ------------------------------------------------------------ |
+| ---------------------------------------------------------------------------------: | ------------------------------------------------------------ |
 | [euler-paths](https://github.com/MHenderson/euler-paths)                           | Test Euler paths with Maxima.                                |
 | [ccli](https://github.com/MHenderson/ccli)                                         | A command-line interface for Culberson’s colouring programs. |
 | [graphs-collection](https://github.com/MHenderson/graphs-collection)               | A collection of graphs in a variety of formats.              |
@@ -79,7 +79,7 @@ Other projects.
 ### Functional Geometry
 
 | Repository                                                 | Description                                                                                                    |
-| :--------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
 | [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
 | [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
 
@@ -88,14 +88,14 @@ Other projects.
 ### LaTeX Templates
 
 | Repository                                                             | Description                                                             |
-| :--------------------------------------------------------------------: | ----------------------------------------------------------------------- |
+| ---------------------------------------------------------------------: | ----------------------------------------------------------------------- |
 | [fiction-template](https://github.com/MHenderson/fiction-template)     | A template for PDF documents using XeLaTeX and latexmk.                 |
 | [paper-template](https://github.com/MHenderson/paper-template)         | A foundation for mathematical papers in XeLaTeX.                        |
 
 ### Morning Pages
 
 | Repository                                                | Description                                              |
-| :-------------------------------------------------------: | -------------------------------------------------------- |
+| --------------------------------------------------------: | -------------------------------------------------------- |
 | [llinyn](https://github.com/MHenderson/llinyn)            | A few esoteric string operations in R.                   |
 | [mp](https://github.com/MHenderson/mp)                    | Create morning pages.                                    |
 | [pages2df](https://github.com/MHenderson/pages2df)        | Read morning pages into a data frame in R.               |
