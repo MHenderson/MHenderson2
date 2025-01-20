@@ -1,11 +1,11 @@
-# MHenderson2 (42)
+# MHenderson2 (50)
 
 Other projects.
 
 ## Config (2)
 
 | Repository                                                                           | Description              |
-| :----------------------------------------------------------------------------------: | ------------------------ |
+| -----------------------------------------------------------------------------------: | ------------------------ |
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
 | [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
@@ -14,7 +14,7 @@ Other projects.
 ### Data Visualisation
 
 | Repository                                                                           | Description                                                                                           |
-| :----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- |
+| -----------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------- |
 | [cottonviz](https://github.com/MHenderson/cottonviz)                                 | My code for the Mary Eleanor Spear dataviz competition, hosted by the Royal Statistical Society.      |
 | [madison-county](https://github.com/MHenderson/madison-county)                       | Plots of Madison County, Kentucky.                                                                    |
 | [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday)                           | My efforts towards the weekly [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project. |
@@ -36,29 +36,37 @@ Other projects.
 ### Expert Learning
 
 | Repository                                                        | Description                      |
-| :---------------------------------------------------------------: | -------------------------------- |
+| ----------------------------------------------------------------: | -------------------------------- |
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
-## Mathematics (14)
+## Mathematics (22)
 
 ### Combinatorics
 
-| Repository                                                             | Description                                                                   |
-| :--------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
-| [completing-pls](https://github.com/MHenderson/completing-pls)         | Completing partial latin squares in Python with ryser.                        |
-| [keedwell](https://github.com/MHenderson/keedwell)                     | Completion and embedding of latin squares in R.                               |
-| [latin-enumeration](https://github.com/MHenderson/latin-enumeration)   | Enumeration of latin squares with R and Minion.                               |
-| [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                 | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
-| [room](https://github.com/MHenderson/room)                             | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square).       |
-| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)     | A bibliography of Room squares.                                               |
-| [ryser](https://github.com/MHenderson/ryser)                           | Latin squares and related designs.                                            |
-| [ryser-in-r](https://github.com/MHenderson/ryser-in-r)                 | Extending latin rectangles in R using Ryser's theorem and {keedwell}.         |
+| Repository                                                                               | Description                                                                   |
+| ---------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
+| [completing-pls](https://github.com/MHenderson/completing-pls)                           | Completing partial latin squares in Python with {ryser}.                      |
+| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares) | Exploring the spectra of maximal partial Room squares in R with {wallis}.     |
+| [keedwell](https://github.com/MHenderson/keedwell)                                       | Completion and embedding of latin squares in R.                               |
+| [latin-enumeration](https://github.com/MHenderson/latin-enumeration)                     | Enumeration of latin squares with R and Minion.                               |
+| [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)               | Generate maximal partial Room squares in R with {wallis}.                     |
+| [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                                   | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
+| [more-maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)          | An R6-based implementation of maximal partial Room squares.                   |
+| [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares) | Randomised maximal partial Room squares in R with {wallis}.                   |
+| [room](https://github.com/MHenderson/room)                                               | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square).       |
+| [room-figures](https://github.com/MHenderson/room-figures)                               | Code to generate figures used in the Room Squares monograph.                  | 
+| [room-squares-animation](https://github.com/MHenderson/room-squares-animation)           | Animate sequences of partial Room squares.                                    |
+| [room-squares-bib](https://github.com/MHenderson/room-squares-bib)                       | A bibliography of Room squares.                                               |
+| [room-square-generator](https://github.com/MHenderson/room-square-generator)             | Java application for generating Room squares.                                 |
+| [ryser](https://github.com/MHenderson/ryser)                                             | Latin squares and related designs.                                            |
+| [ryser-in-r](https://github.com/MHenderson/ryser-in-r)                                   | Extending latin rectangles in R using Ryser's theorem and {keedwell}.         |
+| [wallis](https://github.com/MHenderson/wallis)                                           | Room squares in R.                                                            |
 
 ### Graph Theory
 
 | Repository                                                                         | Description                                                  |
-| :--------------------------------------------------------------------------------: | ------------------------------------------------------------ |
+| ---------------------------------------------------------------------------------: | ------------------------------------------------------------ |
 | [euler-paths](https://github.com/MHenderson/euler-paths)                           | Test Euler paths with Maxima.                                |
 | [ccli](https://github.com/MHenderson/ccli)                                         | A command-line interface for Culberson’s colouring programs. |
 | [graphs-collection](https://github.com/MHenderson/graphs-collection)               | A collection of graphs in a variety of formats.              |
@@ -71,7 +79,7 @@ Other projects.
 ### Functional Geometry
 
 | Repository                                                 | Description                                                                                                    |
-| :--------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
+| ---------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
 | [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
 | [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
 
@@ -80,14 +88,14 @@ Other projects.
 ### LaTeX Templates
 
 | Repository                                                             | Description                                                             |
-| :--------------------------------------------------------------------: | ----------------------------------------------------------------------- |
+| ---------------------------------------------------------------------: | ----------------------------------------------------------------------- |
 | [fiction-template](https://github.com/MHenderson/fiction-template)     | A template for PDF documents using XeLaTeX and latexmk.                 |
 | [paper-template](https://github.com/MHenderson/paper-template)         | A foundation for mathematical papers in XeLaTeX.                        |
 
 ### Morning Pages
 
 | Repository                                                | Description                                              |
-| :-------------------------------------------------------: | -------------------------------------------------------- |
+| --------------------------------------------------------: | -------------------------------------------------------- |
 | [llinyn](https://github.com/MHenderson/llinyn)            | A few esoteric string operations in R.                   |
 | [mp](https://github.com/MHenderson/mp)                    | Create morning pages.                                    |
 | [pages2df](https://github.com/MHenderson/pages2df)        | Read morning pages into a data frame in R.               |
