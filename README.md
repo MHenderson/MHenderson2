@@ -46,7 +46,7 @@ Other projects.
 
 | Repository                                                                               | Description                                                                   |
 | :--------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
-| [completing-pls](https://github.com/MHenderson/completing-pls)                           | Completing partial latin squares in Python with ryser.                        |
+| [completing-pls](https://github.com/MHenderson/completing-pls)                           | Completing partial latin squares in Python with {ryser}.                      |
 | [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares) | Exploring the spectra of maximal partial Room squares in R with {wallis}.     |
 | [keedwell](https://github.com/MHenderson/keedwell)                                       | Completion and embedding of latin squares in R.                               |
 | [latin-enumeration](https://github.com/MHenderson/latin-enumeration)                     | Enumeration of latin squares with R and Minion.                               |
