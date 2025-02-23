@@ -1,7 +1,3 @@
-# MHenderson2 (50)
-
-Other projects.
-
 ## Config (2)
 
 | Repository                                                                           | Description              |
@@ -102,3 +98,4 @@ Other projects.
 | [pages2docs](https://github.com/MHenderson/pages2docs)    | Convert morning pages to the format required by mkdocs.  |
 | [pages2tex](https://github.com/MHenderson/pages2tex)      | Convert morning pages into LaTeX chapters of a book.     |
 
+(50)
