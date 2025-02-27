@@ -1,11 +1,22 @@
-## Config (2)
+# Contents
+
+* [Config](#config)
+* [Data Science](#data-science)
+* [Machine Learning](#machine-learning)
+* [Mathematics](#mathematics)
+* [Programming](#programming)
+* [Writing Tools](#writing-tools)
+
+# Projects
+
+## Config
 
 | Repository                                                                           | Description              |
 | -----------------------------------------------------------------------------------: | ------------------------ |
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
 | [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
-## Data Science (15)
+## Data Science
 
 ### Data Visualisation
 
@@ -27,7 +38,7 @@
 | [tt-volcanoes](https://github.com/MHenderson/tt-volcanoes)                           | Tidy Tuesday for week 20 of 2020.                                                                     |
 | [tt-water-sources](https://github.com/MHenderson/tt-water-sources)                   | Plots of data from the Water Point Data Exchange for Week 19, 2021 of Tidy Tuesday.                   |
 
-## Machine Learning (2)
+## Machine Learning
 
 ### Expert Learning
 
@@ -36,7 +47,7 @@
 | [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
 | [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
 
-## Mathematics (22)
+## Mathematics
 
 ### Combinatorics
 
@@ -70,7 +81,7 @@
 | [lombardi-drawings](https://github.com/MHenderson/lombardi-drawings)               | Code behind a blog post about the Lombardi Spirograph.       |
 | [processing-graph-streams](https://github.com/MHenderson/processing-graph-streams) | Code behing a blog post about gvpr.                          |
 
-## Programming (2)
+## Programming
 
 ### Functional Geometry
 
@@ -79,7 +90,7 @@
 | [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
 | [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
 
-## Writing Tools (7)
+## Writing Tools
 
 ### LaTeX Templates
 
