@@ -5,7 +5,14 @@
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
 | [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
-## Computer Science (2)
+## Computer Science (4)
+
+### Functional Programming
+
+| Repository                                                 | Description                                                                                                    |
+| ---------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
+| [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
+| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
 
 ### Machine Learning
 
@@ -78,15 +85,6 @@
 | [vizing](https://github.com/MHenderson/vizing)                                       | Constraint-based list-colouring in Python.                                                   |
 
 
-## Programming (2)
-
-### Functional Geometry
-
-| Repository                                                 | Description                                                                                                    |
-| ---------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
-| [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
-| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
-
 ## Writing Tools (7)
 
 ### LaTeX Templates
@@ -108,4 +106,4 @@
 
 ----
 
-Total: 2 + 2 + 15 + 29 + 2 + 7 = 57
+Total: 2 + 4 + 15 + 29 + 7 = 57
