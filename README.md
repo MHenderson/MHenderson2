@@ -43,27 +43,32 @@
 | [tt-volcanoes](https://github.com/MHenderson/tt-volcanoes)                           | Tidy Tuesday for week 20 of 2020.                                                                     |
 | [tt-water-sources](https://github.com/MHenderson/tt-water-sources)                   | Plots of data from the Water Point Data Exchange for Week 19, 2021 of Tidy Tuesday.                   |
 
-## Mathematics (29)
+## Mathematics (34)
 
 ### Combinatorics
 
 | Repository                                                                               | Description                                                                   |
 | ---------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------- |
 | [completing-pls](https://github.com/MHenderson/completing-pls)                           | Completing partial latin squares in Python with {ryser}.                      |
+| [dokushin](https://github.com/MHenderson/dokushin)                                       | Modelling Sudoku puzzles in Python.                                           |
+| [dyad](https://github.com/MHenderson/dyad)                                               | Lists of pairs in R.                                                          |
 | [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares) | Exploring the spectra of maximal partial Room squares in R with {wallis}.     |
 | [keedwell](https://github.com/MHenderson/keedwell)                                       | Completion and embedding of latin squares in R.                               |
 | [latin-enumeration](https://github.com/MHenderson/latin-enumeration)                     | Enumeration of latin squares with R and Minion.                               |
 | [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)               | Generate maximal partial Room squares in R with {wallis}.                     |
 | [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                                   | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
 | [more-maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)          | An R6-based implementation of maximal partial Room squares.                   |
+| [psssodls](https://github.com/MHenderson/psssodls)                                       | Generate PSSSODLS in Minion format.                                           |
 | [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares) | Randomised maximal partial Room squares in R with {wallis}.                   |
 | [room](https://github.com/MHenderson/room)                                               | A book about [Room squares](https://en.wikipedia.org/wiki/Room_square).       |
 | [room-figures](https://github.com/MHenderson/room-figures)                               | Code to generate figures used in the Room Squares monograph.                  | 
 | [room-squares-animation](https://github.com/MHenderson/room-squares-animation)           | Animate sequences of partial Room squares.                                    |
 | [room-squares-bib](https://github.com/MHenderson/room-squares-bib)                       | A bibliography of Room squares.                                               |
 | [room-square-generator](https://github.com/MHenderson/room-square-generator)             | Java application for generating Room squares.                                 |
+| [rudoku](https://github.com/MHenderson/rudoku)                                           | Modelling Sudoku puzzles in R.                                                |
 | [ryser](https://github.com/MHenderson/ryser)                                             | Latin squares and related designs.                                            |
 | [ryser-in-r](https://github.com/MHenderson/ryser-in-r)                                   | Extending latin rectangles in R using Ryser's theorem and {keedwell}.         |
+| [sudoku-modelling](https://github.com/MHenderson/sudoku-modelling)                       | Modeling Sudoku Puzzles with Python paper.                                    |
 | [wallis](https://github.com/MHenderson/wallis)                                           | Room squares in R.                                                            |
 
 ### Graph Theory
@@ -106,4 +111,5 @@
 
 ----
 
-Total: 2 + 4 + 15 + 29 + 7 = 57
+Total: 2 + 4 + 15 + 34 + 7 = 62
+
