@@ -99,6 +99,16 @@
 | [photo-gallery](https://github.com/MHenderson/photo-gallery)                 | A gallery of photographs taken in 2025.  |
 | [photo-serve](https://github.com/MHenderson/photo-serve)                     | Experimental photo hosting repo.         |
 
+## Public (5)
+
+| Repository                                                                 | Description                |
+| -------------------------------------------------------------------------: | -------------------------- |
+| [homepage](https://github.com/MHenderson/homepage)                         | My personal homepage.      |
+| [MHenderson](https://github.com/MHenderson/MHenderson)                     | My GitHub profile.         |
+| [MHenderson2](https://github.com/MHenderson/MHenderson2)                   | All of my Github projects. |
+| [MHenderson.github.io](https://github.com/MHenderson/MHenderson.github.io) | My Github homepage.        |
+| [sites](https://github.com/MHenderson/sites)                               | My sites.                  |
+
 ## Writing Tools (7)
 
 ### LaTeX Templates
@@ -120,5 +130,5 @@
 
 ----
 
-Total: 2 + 4 + 15 + 34 + 5 + 7 = 67
+Total: 2 + 4 + 15 + 34 + 5 + 5 + 7 = 72
 
