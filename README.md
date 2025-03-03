@@ -43,6 +43,18 @@
 | [tt-volcanoes](https://github.com/MHenderson/tt-volcanoes)                           | Tidy Tuesday for week 20 of 2020.                                                                     |
 | [tt-water-sources](https://github.com/MHenderson/tt-water-sources)                   | Plots of data from the Water Point Data Exchange for Week 19, 2021 of Tidy Tuesday.                   |
 
+## Linguistics (7)
+
+| Repository                                                   | Description                                       |
+| -----------------------------------------------------------: | :------------------------------------------------ |
+| [blackmore](https://github.com/MHenderson/blackmore)         | An R package of poetry written in Dorset dialect. |
+| [coco-data](https://github.com/MHenderson/coco-data)         | Data pipeline for the coco-explorer app.          |
+| [coco-explorer](https://github.com/MHenderson/coco-explorer) | Explore co-occurrences in corpora.                |
+| [dhlawrencer](https://github.com/MHenderson/dhlawrencer)     | An R package for D. H. Lawrence's novels.         |
+| [jcpowsyr](https://github.com/MHenderson/jcpowysr)           | An R package of John Cowper Powys's novels.       |
+| [poetrytools](https://github.com/MHenderson/poetrytools)     | Prosodic analysis of poetry in R.                 |
+| [thomashardyr](https://github.com/MHenderson/thomashardyr)   | An R package for Thomas Hardy's novels.           |
+
 ## Mathematics (34)
 
 ### Combinatorics
@@ -130,5 +142,5 @@
 
 ----
 
-Total: 2 + 4 + 15 + 34 + 5 + 5 + 7 = 72
+Total: 2 + 4 + 15 + 7 + 34 + 5 + 5 + 7 = 79
 
