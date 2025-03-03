@@ -102,7 +102,7 @@
 ## Public (5)
 
 | Repository                                                                 | Description                |
-| -------------------------------------------------------------------------- | -------------------------- |
+| -------------------------------------------------------------------------: | -------------------------- |
 | [homepage](https://github.com/MHenderson/homepage)                         | My personal homepage.      |
 | [MHenderson](https://github.com/MHenderson/MHenderson)                     | My GitHub profile.         |
 | [MHenderson2](https://github.com/MHenderson/MHenderson2)                   | All of my Github projects. |
