@@ -89,6 +89,15 @@
 | [tcc-solution-figs](https://github.com/MHenderson/tcc-solution-figs)                 | TikZ figures for a paper on the total chromatic number conjecture.                           |
 | [vizing](https://github.com/MHenderson/vizing)                                       | Constraint-based list-colouring in Python.                                                   |
 
+## Photography (5)
+
+| Repository                                                                   | Description                              |
+| ---------------------------------------------------------------------------: | :--------------------------------------- |
+| [photo-collection](https://github.com/MHenderson/photo-collection)           | All of my photographs.                   |
+| [photo-collection-exif](https://github.com/MHenderson/photo-collection-exif) | Some exif data from my photo-collection. |
+| [photo-copy](https://github.com/MHenderson/photo-copy)                       | Export photos from SD cards.             |
+| [photo-gallery](https://github.com/MHenderson/photo-gallery)                 | A gallery of photographs taken in 2025.  |
+| [photo-serve](https://github.com/MHenderson/photo-serve)                     | Experimental photo hosting repo.         |
 
 ## Writing Tools (7)
 
@@ -111,5 +120,5 @@
 
 ----
 
-Total: 2 + 4 + 15 + 34 + 7 = 62
+Total: 2 + 4 + 15 + 34 + 5 + 7 = 67
 
