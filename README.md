@@ -5,21 +5,44 @@
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
 | [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
-## Computer Science (4)
+## Computer Science (12)
+
+### Constraint Programming
+
+| Repository                                             | Description                       |
+| -----------------------------------------------------: | :-------------------------------- |
+| [minionator](https://github.com/MHenderson/minionator) | Generate Minion input files in R. |
+| [mopr](https://github.com/MHenderson/mopr)             | Parse Minion output in R.         |
+| [rminion](https://github.com/MHenderson/rminion)       | Call Minion from R.               |
 
 ### Functional Programming
 
-| Repository                                                 | Description                                                                                                    |
-| ---------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------- |
-| [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                                                                                      |
-| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.   |
+| Repository                                                 | Description                                      |
+| ---------------------------------------------------------: | ------------------------------------------------ |
+| [funcgeo](https://github.com/MHenderson/funcgeo)           | Functional geometry in R.                        |
+| [squarelimit](https://github.com/MHenderson/squarelimit)   | Recreate Escher's *Square Limit* with funcgeo.   |
 
 ### Machine Learning
 
-| Repository                                                        | Description                      |
-| ----------------------------------------------------------------: | -------------------------------- |
-| [experts](https://github.com/MHenderson/experts)                  | Mixture of experts in Python.    |
-| [expert-learning](https://github.com/MHenderson/expert-learning)  | Demos of the experts package.    |
+| Repository                                                           | Description                              |
+| -------------------------------------------------------------------: | ---------------------------------------- |
+| [audio-recognition](https://github.com/MHenderson/audio-recognition) | Audio recognition with TensorFlow.js.    |
+| [experts](https://github.com/MHenderson/experts)                     | Mixture of experts in Python.            |
+| [expert-learning](https://github.com/MHenderson/expert-learning)     | Demos of the experts package.            |
+| [image-classifier](https://github.com/MHenderson/image-classifier)   | An image classifier using TensorFlow.js. |
+
+### Programming
+
+| Repository                                       | Description                |
+| -----------------------------------------------: | :------------------------- |
+| [yesorno](https://github.com/MHenderson/yesorno) | Yes/No as a service in R.  |
+| [todotxt](https://github.com/MHenderson/todotxt) | Parse todo.txt files in R. |
+
+### Software Architecture
+
+| Repository                                     | Description                      |
+| ---------------------------------------------: | :------------------------------- |
+| [wharve](https://github.com/MHenderson/wharve) | Whole architecture verification. |
 
 ## Data Science (15)
 
@@ -142,5 +165,5 @@
 
 ----
 
-Total: 2 + 4 + 15 + 7 + 34 + 5 + 5 + 7 = 79
+Total: 2 + 12 + 15 + 7 + 34 + 5 + 5 + 7 = 87
 
