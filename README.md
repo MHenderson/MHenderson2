@@ -1,9 +1,10 @@
-## Config (2)
+# Coding Projects (109)
+
+## Config (1)
 
 | Repository                                                                           | Description              |
 | -----------------------------------------------------------------------------------: | ------------------------ |
 | [dotfiles](https://github.com/MHenderson/dotfiles)                                   | Dotfiles for codespaces. |
-| [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.  |
 
 ## Computer Science (12)
 
@@ -44,7 +45,14 @@
 | ---------------------------------------------: | :------------------------------- |
 | [wharve](https://github.com/MHenderson/wharve) | Whole architecture verification. |
 
-## Data Science (15)
+## Data Science (19)
+
+| Repository                                                     | Description                                 |
+| -------------------------------------------------------------: | :------------------------------------------ |
+| [energy-data](https://github.com/MHenderson/energy-data)       | My energy data.                             |
+| [energy-use](https://github.com/MHenderson/energy-use)         | Shiny app for monitoring home energy usage. |
+| [shinylive-demo](https://github.com/MHenderson/shinylive-demo) | Hello, World for shinylive.                 |
+| [webr-demo](https://github.com/MHenderson/webr-demo)           | Demo of using WebR.                         |
 
 ### Data Visualisation
 
@@ -65,6 +73,14 @@
 | [tt-ultra-trail-running](https://github.com/MHenderson/tt-ultra-trail-running)       | Tidy Tuesday for week 43, 2021.                                                                       |
 | [tt-volcanoes](https://github.com/MHenderson/tt-volcanoes)                           | Tidy Tuesday for week 20 of 2020.                                                                     |
 | [tt-water-sources](https://github.com/MHenderson/tt-water-sources)                   | Plots of data from the Water Point Data Exchange for Week 19, 2021 of Tidy Tuesday.                   |
+
+## Languages (1)
+
+### Korean
+
+| Repository                                   | Description                                   |
+| -------------------------------------------: | :-------------------------------------------- |
+| [bonho](https://github.com/MHenderson/bonho) | A flashcard game for learning Korean numbers. |
 
 ## Linguistics (7)
 
@@ -134,17 +150,18 @@
 | [photo-gallery](https://github.com/MHenderson/photo-gallery)                 | A gallery of photographs taken in 2025.  |
 | [photo-serve](https://github.com/MHenderson/photo-serve)                     | Experimental photo hosting repo.         |
 
-## Public (5)
+## Public (6)
 
-| Repository                                                                 | Description                |
-| -------------------------------------------------------------------------: | -------------------------- |
-| [homepage](https://github.com/MHenderson/homepage)                         | My personal homepage.      |
-| [MHenderson](https://github.com/MHenderson/MHenderson)                     | My GitHub profile.         |
-| [MHenderson2](https://github.com/MHenderson/MHenderson2)                   | All of my Github projects. |
-| [MHenderson.github.io](https://github.com/MHenderson/MHenderson.github.io) | My Github homepage.        |
-| [sites](https://github.com/MHenderson/sites)                               | My sites.                  |
+| Repository                                                                           | Description                |
+| -----------------------------------------------------------------------------------: | -------------------------- |
+| [homepage](https://github.com/MHenderson/homepage)                                   | My personal homepage.      |
+| [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.    |
+| [MHenderson](https://github.com/MHenderson/MHenderson)                               | My GitHub profile.         |
+| [MHenderson2](https://github.com/MHenderson/MHenderson2)                             | All of my Github projects. |
+| [MHenderson.github.io](https://github.com/MHenderson/MHenderson.github.io)           | My Github homepage.        |
+| [sites](https://github.com/MHenderson/sites)                                         | My sites.                  |
 
-## Writing Tools (7)
+## Writing Tools (8)
 
 ### LaTeX Templates
 
@@ -163,7 +180,19 @@
 | [pages2docs](https://github.com/MHenderson/pages2docs)    | Convert morning pages to the format required by mkdocs.  |
 | [pages2tex](https://github.com/MHenderson/pages2tex)      | Convert morning pages into LaTeX chapters of a book.     |
 
+### Planners
+
+| Repository                                                     | Description                      |
+| -------------------------------------------------------------: | :------------------------------- |
+| [weekly-planner](https://github.com/MHenderson/weekly-planner) | Printables for a weekly planner. |
+
 ----
 
-Total: 2 + 12 + 15 + 7 + 34 + 5 + 5 + 7 = 87
+Repos: 1 + 12 + 19 + 1 + 7 + 34 + 5 + 6 + 8 = 93
+
+Archived: 3 (langchain-demo, haiki-ai, leet)
+
+Forks: 13
+
+Total: 93 + 3 + 13 = 109
 
