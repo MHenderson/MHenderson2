@@ -1,4 +1,4 @@
-# Coding Projects (109)
+# Coding Projects
 
 ## Config (1)
 
