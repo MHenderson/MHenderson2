@@ -94,7 +94,7 @@
 | [poetrytools](https://github.com/MHenderson/poetrytools)     | Prosodic analysis of poetry in R.                 |
 | [thomashardyr](https://github.com/MHenderson/thomashardyr)   | An R package for Thomas Hardy's novels.           |
 
-## Mathematics (34)
+## Mathematics (36)
 
 ### Combinatorics
 
@@ -137,6 +137,8 @@
 | [lombardi-drawings](https://github.com/MHenderson/lombardi-drawings)                 | Code behind a blog post about the Lombardi Spirograph.                                       |
 | [phdthesis-figures](https://github.com/MHenderson/phdthesis-figures)                 | Figures from my Ph.D. thesis.                                                                |
 | [processing-graph-streams](https://github.com/MHenderson/processing-graph-streams)   | Code behing a blog post about gvpr.                                                          |
+| [queen-colouring](https://github.com/MHenderson/queen-colouring)                     | Code behing a blog post about colouring Queen graphs.                                        |
+| [small-graph-colouring](https://github.com/MHenderson/small-graph-colouring)         | Code behing a blog post about colouring small graphs.                                        |
 | [tcc-solution-figs](https://github.com/MHenderson/tcc-solution-figs)                 | TikZ figures for a paper on the total chromatic number conjecture.                           |
 | [vizing](https://github.com/MHenderson/vizing)                                       | Constraint-based list-colouring in Python.                                                   |
 
@@ -150,16 +152,20 @@
 | [photo-gallery](https://github.com/MHenderson/photo-gallery)                 | A gallery of photographs taken in 2025.  |
 | [photo-serve](https://github.com/MHenderson/photo-serve)                     | Experimental photo hosting repo.         |
 
-## Public (6)
+## Public (10)
 
-| Repository                                                                           | Description                |
-| -----------------------------------------------------------------------------------: | -------------------------- |
-| [homepage](https://github.com/MHenderson/homepage)                                   | My personal homepage.      |
-| [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | My personal R universe.    |
-| [MHenderson](https://github.com/MHenderson/MHenderson)                               | My GitHub profile.         |
-| [MHenderson2](https://github.com/MHenderson/MHenderson2)                             | All of my Github projects. |
-| [MHenderson.github.io](https://github.com/MHenderson/MHenderson.github.io)           | My Github homepage.        |
-| [sites](https://github.com/MHenderson/sites)                                         | My sites.                  |
+| Repository                                                                           | Description             |
+| -----------------------------------------------------------------------------------: | ----------------------- |
+| [homepage](https://github.com/MHenderson/homepage)                                   | Personal homepage.      |
+| [mjhdata](https://github.com/MHenderson/mjhdata)                                     | Data science blog.      |
+| [mjhdev](https://github.com/MHenderson/mjhdev)                                       | Coding homepage.        |
+| [mjhmath](https://github.com/MHenderson/mjhmath)                                     | Mathematics homepage.   |
+| [mjhphoto](https://github.com/MHenderson/mjhphoto)                                   | Photography homeapage.  |
+| [mhenderson.r-universe.dev](https://github.com/MHenderson/mhenderson.r-universe.dev) | R universe.             | 
+| [MHenderson](https://github.com/MHenderson/MHenderson)                               | GitHub profile.         |
+| [MHenderson2](https://github.com/MHenderson/MHenderson2)                             | Github projects.        |
+| [MHenderson.github.io](https://github.com/MHenderson/MHenderson.github.io)           | Github homepage.        |
+| [sites](https://github.com/MHenderson/sites)                                         | Sites.                  |
 
 ## Writing Tools (8)
 
@@ -188,11 +194,11 @@
 
 ----
 
-Repos: 1 + 12 + 19 + 1 + 7 + 34 + 5 + 6 + 8 = 93
+Repos: 1 + 12 + 19 + 1 + 7 + 36 + 5 + 10 + 8 = 99
 
 Archived: 3 (langchain-demo, haiki-ai, leet)
 
 Forks: 13
 
-Total: 93 + 3 + 13 = 109
+Total: 99 + 3 + 13 = 115
 
