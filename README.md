@@ -94,7 +94,7 @@
 | [poetrytools](https://github.com/MHenderson/poetrytools)     | Prosodic analysis of poetry in R.                 |
 | [thomashardyr](https://github.com/MHenderson/thomashardyr)   | An R package for Thomas Hardy's novels.           |
 
-## Mathematics (36)
+## Mathematics (37)
 
 ### Combinatorics
 
@@ -129,6 +129,7 @@
 | [bounds-related-figs](https://github.com/MHenderson/bounds-related-figs)             | tkz-graph figures for a paper on the edge-list and total chromatic numbers of simple graphs. |
 | [euler-paths](https://github.com/MHenderson/euler-paths)                             | Test Euler paths with Maxima.                                                                |
 | [ccli](https://github.com/MHenderson/ccli)                                           | A command-line interface for Culberson’s colouring programs.                                 |
+| [ccli-demo](https://github.com/MHenderson/ccli-demo)                                 | An example of using ccli for colouring graphs.                                               |
 | [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) | Constraint-based list-colouring in Python with vizing.                                       |
 | [graphs-collection](https://github.com/MHenderson/graphs-collection)                 | A collection of graphs in a variety of formats.                                              |
 | [graph-drawing](https://github.com/MHenderson/graph-drawing)                         | Drawing graphs with NetworkX.                                                                |
@@ -194,11 +195,11 @@
 
 ----
 
-Repos: 1 + 12 + 19 + 1 + 7 + 36 + 5 + 10 + 8 = 99
+Repos: 1 + 12 + 19 + 1 + 7 + 37 + 5 + 10 + 8 = 99
 
 Archived: 3 (langchain-demo, haiki-ai, leet)
 
 Forks: 13
 
-Total: 99 + 3 + 13 = 115
+Total: 99 + 3 + 13 = 116
 
